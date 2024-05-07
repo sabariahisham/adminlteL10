@@ -36,3 +36,5 @@ tests/Feature/Auth/PasswordResetTest.php
 tests/Feature/Auth/PasswordUpdateTest.php
 tests/Feature/Auth/RegistrationTest.php
 tests/Unit/ExampleTest.php
+composer.lock
+package-lock.json
